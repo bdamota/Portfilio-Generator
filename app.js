@@ -124,7 +124,6 @@ const promptUser = () => {
           }
       })
   };
-
   promptUser()
   .then(promptProject)
   .then(portfolioData => {
