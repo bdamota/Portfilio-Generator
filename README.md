@@ -6,14 +6,14 @@ A command-line application that dynamically generates a professional portfolio h
 ![image](https://github.com/bdamota/Portfolio-Generator/blob/master/Screen%20Shot%202020-07-21%20at%209.11.04%20PM.png)
 
 ## Technologies:
-HTML5
-JavaScript
-ES6
-jQuery
-Node.js
-Inquirer
+- HTML5
+- JavaScript
+- ES6
+- jQuery
+- Node.js
+- Inquirer
 
 ## Installation:
-Clone Repository.
-Install Node.js and Inquirer Package.
-Invoke using apps.js file.
+- Clone Repository.
+- Install Node.js and Inquirer Package.
+- Invoke using apps.js file.
